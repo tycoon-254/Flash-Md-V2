@@ -14,17 +14,17 @@
     "PREFIX": {
       "description": "Comma-separated list of command prefixes (e.g. !, /)",
       "required": false,
-      "value": "!"
+      "value": "."
     },
     "YOUR_NUMBER": {
       "description": "Your WhatsApp number in international format (e.g. 254742063632)",
       "required": false,
-      "value": "254742063632"
+      "value": "254789995355"
     },
     "MODE": {
       "description": "Bot mode: 'private' or 'public'",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "WARNINGS": {
       "description": "Number of warnings before action is taken",
@@ -34,12 +34,12 @@
     "YOUR_NAME": {
       "description": "Your name or bot owner name",
       "required": false,
-      "value": "FLASH-MD"
+      "value": "Tycoons"
     },
     "ANTICALL": {
       "description": "Block incoming calls (on/off)",
       "required": false,
-      "value": "on"
+      "value": "off"
     },
     "ANTIDELETE": {
       "description": "Enable anti-delete for messages (on/off)",
@@ -54,7 +54,7 @@
     "AUTO_READ_STATUS": {
       "description": "Enable auto view of status updates (on/off)",
       "required": false,
-      "value": "off"
+      "value": "on"
     },
     "AUTO_READ_DM": {
       "description": "Enable auto-read of direct messages (on/off)",
